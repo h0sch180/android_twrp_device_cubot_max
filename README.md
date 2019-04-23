@@ -15,6 +15,6 @@ the way to do:
 
 - lunch omni_MAX-eng
 
-- mka recoveryimage
+- make -j# recoveryimage [# : no. of cpu core]
 ```
 
