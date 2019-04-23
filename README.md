@@ -1,4 +1,3 @@
-# android_twrp_device_cubot_max
 TWRP Device Tree for Cubot MAX 
 ===========
 Unoffical Build for MT6753 TWRP 
